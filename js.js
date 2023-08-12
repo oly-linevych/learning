@@ -23,3 +23,7 @@
 //     }
 
 
+const tagsContainer = document.querySelector('.js-tags');
+const selected = new Set();
+
+tagsContainer.addEventListener('click', onTa)

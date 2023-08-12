@@ -1,5 +1,5 @@
 /* ------------------1. ПРИ КЛІКУ ЗМІНЮЄТЬСЯ КОЛІР КНОПКИ---------------------------- */
-/* .tags {
+.tags {
     outline: 1px solid tomato;
     display: flex;
     flex-wrap: wrap;
@@ -27,4 +27,4 @@
 
 .tags__btn-active {
     background-color: blue;
-} */
+}
